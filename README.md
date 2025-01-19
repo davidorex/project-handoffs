@@ -70,13 +70,10 @@ npm run dev
 # Build
 npm run build
 
-# Run server
-npm start
-```
 
 ## Implementation Details
 
-- Robust error handling through unified ProjectError class
+- Error handling through ProjectError class
 - Template validation for all entity types
 - Consistent state management
 - Safe data persistence with proper error handling
@@ -88,7 +85,7 @@ If you discover a security vulnerability, please create a new issue with the lab
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome. Feel free to submit a Pull Request.
 
 ## License
 
