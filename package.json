@@ -1,0 +1,20 @@
+{
+  "name": "@modelcontextprotocol/server-project-handoffs",
+  "version": "0.1.0",
+  "description": "MCP server for managing AI session handoffs and next steps",
+  "type": "module",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "dev": "ts-node --esm src/index.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.0"
+  }
+}
