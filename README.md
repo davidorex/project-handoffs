@@ -81,3 +81,15 @@ npm start
 - Consistent state management
 - Safe data persistence with proper error handling
 - Type-safe implementation following project-memory-server patterns
+
+## Security
+
+If you discover a security vulnerability, please create a new issue with the label 'security'. We take all security reports seriously and will respond promptly.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
