@@ -2,6 +2,8 @@
 
 MCP server for managing AI session handoffs and next steps tracking.
 
+<a href="https://glama.ai/mcp/servers/3bjpgw8p74"><img width="380" height="200" src="https://glama.ai/mcp/servers/3bjpgw8p74/badge" alt="Project Handoffs Server MCP server" /></a>
+
 ## Core Concepts
 
 - NextStep → WorkingSession → Handoff → New NextStep chains
