@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/davidorex-project-handoffs-badge.png)](https://mseep.ai/app/davidorex-project-handoffs)
+
 # Project Handoffs MCP Server
 
 MCP server for managing AI session handoffs and next steps tracking.
